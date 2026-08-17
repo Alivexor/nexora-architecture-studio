@@ -4,7 +4,11 @@
 /wp-content/uploads/
 /wp-content/upgrade/
 /wp-content/languages/
+/wp-content/index.php
+/wp-content/plugins/hello.php
+/wp-content/plugins/index.php
 /wp-content/themes/twentytwenty*/
+/wp-content/themes/index.php
 /wp-content/plugins/akismet/
 /wp-content/plugins/polylang/
 /wp-config.php
