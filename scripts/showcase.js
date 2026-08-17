@@ -5,9 +5,9 @@ const chrome = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
 const base = 'http://localhost/nexora/';
 const pages = [
   ['fa-home-desktop.png', '?page_id=202', { width: 1440, height: 900 }],
-  ['en-home-desktop.png', '?page_id=203', { width: 1440, height: 900 }],
+  ['en-home-desktop.png', '?page_id=203&lang=en', { width: 1440, height: 900 }],
   ['fa-home-mobile.png', '?page_id=202', { width: 390, height: 844 }],
-  ['en-home-mobile.png', '?page_id=203', { width: 390, height: 844 }],
+  ['en-home-mobile.png', '?page_id=203&lang=en', { width: 390, height: 844 }],
   ['projects-archive.png', '?post_type=nexora_project', { width: 1440, height: 900 }],
   ['project-case-study.png', '?nexora_project=silent-courtyard-house', { width: 1440, height: 900 }],
   ['studio.png', '?page_id=204', { width: 1440, height: 900 }],

@@ -15,31 +15,21 @@
 
 ## Live design preview
 
-### English
+### English home
 
-| Desktop | Mobile |
-| --- | --- |
-| ![NEXORA English desktop homepage](docs/showcase/en-home-desktop.png) | ![NEXORA English mobile homepage](docs/showcase/en-home-mobile.png) |
+<p align="center"><img src="docs/showcase/en-home-desktop.png" alt="NEXORA English desktop homepage" width="100%"></p>
+<p align="center"><img src="docs/showcase/en-home-mobile.png" alt="NEXORA English mobile homepage" width="320"></p>
 
-### فارسی
+### صفحهٔ اصلی فارسی
 
-| دسکتاپ | موبایل |
-| --- | --- |
-| ![صفحه اصلی فارسی NEXORA در دسکتاپ](docs/showcase/fa-home-desktop.png) | ![صفحه اصلی فارسی NEXORA در موبایل](docs/showcase/fa-home-mobile.png) |
+<p align="center"><img src="docs/showcase/fa-home-desktop.png" alt="صفحه اصلی فارسی NEXORA در دسکتاپ" width="100%"></p>
+<p align="center"><img src="docs/showcase/fa-home-mobile.png" alt="صفحه اصلی فارسی NEXORA در موبایل" width="320"></p>
 
 ## Selected screens
 
-| Projects | Case study |
-| --- | --- |
-| ![Projects archive](docs/showcase/projects-archive.png) | ![Project case study](docs/showcase/project-case-study.png) |
-
-| Studio | Contact |
-| --- | --- |
-| ![Studio](docs/showcase/studio.png) | ![Contact](docs/showcase/contact.png) |
-
-| Mobile navigation | Before / After |
-| --- | --- |
-| ![Mobile navigation](docs/showcase/mobile-navigation.png) | ![Before and after](docs/showcase/before-after.png) |
+<p align="center"><img src="docs/showcase/projects-archive.png" alt="Projects archive" width="100%"></p>
+<p align="center"><img src="docs/showcase/studio.png" alt="NEXORA studio page" width="100%"></p>
+<p align="center"><img src="docs/showcase/mobile-navigation.png" alt="RTL mobile navigation" width="320"></p>
 
 ## Project structure
 
