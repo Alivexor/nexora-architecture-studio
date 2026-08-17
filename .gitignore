@@ -9,6 +9,12 @@
 /wp-content/plugins/polylang/
 /wp-config.php
 /wp-config-sample.php
+/.htaccess
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
 /.codex-backups/
 
 # Local tooling
