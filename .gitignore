@@ -1,0 +1,21 @@
+# WordPress core and instance-specific files
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/languages/
+/wp-content/themes/twentytwenty*/
+/wp-content/plugins/akismet/
+/wp-content/plugins/polylang/
+/wp-config.php
+/wp-config-sample.php
+/.codex-backups/
+
+# Local tooling
+/node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Keep only the curated QA evidence, not the large iterative capture matrix.
+/docs/visual-audit/

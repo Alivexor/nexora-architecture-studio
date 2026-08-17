@@ -1,0 +1,1 @@
+<?php get_header();while(have_posts()):the_post();?><section class="page-hero shell"><span class="eyebrow"><?php echo esc_html(nexora_t('page_kicker')); ?></span><h1><?php the_title(); ?></h1></section><section class="page-content shell"><div class="prose"><?php the_content(); ?></div></section><?php endwhile;get_footer(); ?>
